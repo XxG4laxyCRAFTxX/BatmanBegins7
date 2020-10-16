@@ -8,10 +8,10 @@ var tFrame = 0;
 var thunder
 
 function preload(){
- thunder1 = loadImage("images/1.png")
- thunder2 = loadImage("images/2.png")   
- thunder3 = loadImage("images/3.png")
- thunder4 = loadImage("images/4.png")
+ thunder1 = loadImage("Images/1.png")
+ thunder2 = loadImage("Images/2.png")   
+ thunder3 = loadImage("Images/3.png")
+ thunder4 = loadImage("Images/4.png")
 }
 
 function setup(){
